@@ -3,4 +3,4 @@ About
 :date: 2018-04-11 22:00
 :author: Doru Barbu
 
-`computer whisperer <{attach}/downloads/cv.pdf>`__
+`computer whisperer <|filename|/downloads/cv.pdf>`__
