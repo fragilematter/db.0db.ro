@@ -20,6 +20,7 @@ DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
     ('blog', '/category/blog.html'),
+    ('radio', '/category/radio.html'),
     ('archive', '/category/archive.html'),
     ('about', '/pages/about.html'),
     )
@@ -47,4 +48,4 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 PLUGINS = ['rst_html5_audiovideo']
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'downloads']
