@@ -1,4 +1,4 @@
-South-East Romania FM Scan (WIP)
+South-East Romania AM Scan (WIP)
 ##########################################
 :date: 2019-02-10 19:45
 :author: Doru Barbu
