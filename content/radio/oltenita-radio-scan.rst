@@ -1,11 +1,10 @@
 Oltenița FM Radio Scan
 ##########################################
 :date: 2018-05-28 22:30
+:modified: 2018-07-30 22:00
 :author: Doru Barbu
 :tags: radio fm
 :slug: oltenita-radio-scan
-
-Last update: 2018-07-30
 
 +---------------------------+-----------+------------------------+------------+
 |                           |           |                        | RDS        |
