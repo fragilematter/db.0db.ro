@@ -1,11 +1,10 @@
 Bucharest FM Radio Scan
 ##########################################
 :date: 2018-05-25 22:30
+:modified: 2021-01-01 22:00
 :author: Doru Barbu
 :tags: radio fm
 :slug: bucharest-radio-scan
-
-Last update: 2021-01-01
 
 +---------------------------+-----------+------------------------+------------+
 |                           |           |                        | RDS        |
