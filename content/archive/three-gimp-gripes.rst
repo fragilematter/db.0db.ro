@@ -73,19 +73,19 @@ revision comes out and we should keep in mind that the old interface had
 over 15 years of development behind it. Personally, I'm looking forward
 to the full Gegl transition that is in store for us Gimp users.
 
-.. |Gimp 2.8 Splash Screen| image:: |filename|/images/archive/gimp-splash.jpg
+.. |Gimp 2.8 Splash Screen| image:: {static}/images/archive/gimp-splash.jpg
    :width: 400px
    :height: 248px
-   :target: |filename|/images/archive/gimp-splash.jpg
-.. |Gimp 2.8 combined slider textboxes| image:: |filename|/images/archive/brush_size.png
+   :target: {static}/images/archive/gimp-splash.jpg
+.. |Gimp 2.8 combined slider textboxes| image:: {static}/images/archive/brush_size.png
    :width: 176px
    :height: 100px
-   :target: |filename|/images/archive/brush_size.png
-.. |Gimp 2.8 rotation guides| image:: |filename|/images/archive/rotate.png
+   :target: {static}/images/archive/brush_size.png
+.. |Gimp 2.8 rotation guides| image:: {static}/images/archive/rotate.png
    :width: 387px
    :height: 311px
-   :target: |filename|/images/archive/rotate.png
-.. |Gimp 2.8 text controls| image:: |filename|/images/archive/text_sizing.png
+   :target: {static}/images/archive/rotate.png
+.. |Gimp 2.8 text controls| image:: {static}/images/archive/text_sizing.png
    :width: 360px
    :height: 140px
-   :target: |filename|/images/archive/text_sizing.png
+   :target: {static}/images/archive/text_sizing.png

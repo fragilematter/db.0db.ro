@@ -69,11 +69,11 @@ that allows you to run the myriad of add-ins is great for a desktop
 computer, but the performance penalty is quite big to make a for a
 enjoyable portable experience.
 
-.. |Flash Drive Browser start - Opera| image:: |filename|/images/archive/JustStart_Opera.png
-   :target: |filename|/images/archive/JustStart_Opera.png
-.. |Flash Drive Browser start - Firefox| image:: |filename|/images/archive/JustStart_Firefox.png
-   :target: |filename|/images/archive/JustStart_Firefox.png
-.. |Flash Drive Browser test - Opera| image:: |filename|/images/archive/FullTest_Opera.png
-   :target: |filename|/images/archive/FullTest_Opera.png
-.. |Flash Drive Browser test - Firefox| image:: |filename|/images/archive/FullTest_Firefox.png
-   :target: |filename|/images/archive/FullTest_Firefox.png
+.. |Flash Drive Browser start - Opera| image:: {static}/images/archive/JustStart_Opera.png
+   :target: {static}/images/archive/JustStart_Opera.png
+.. |Flash Drive Browser start - Firefox| image:: {static}/images/archive/JustStart_Firefox.png
+   :target: {static}/images/archive/JustStart_Firefox.png
+.. |Flash Drive Browser test - Opera| image:: {static}/images/archive/FullTest_Opera.png
+   :target: {static}/images/archive/FullTest_Opera.png
+.. |Flash Drive Browser test - Firefox| image:: {static}/images/archive/FullTest_Firefox.png
+   :target: {static}/images/archive/FullTest_Firefox.png

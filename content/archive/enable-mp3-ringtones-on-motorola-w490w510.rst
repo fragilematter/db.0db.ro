@@ -27,5 +27,5 @@ so I hope it might be useful for someone. Happy modding!
 **Later Edit:** The initial values might differ, but I have confirmed
 that bit 2 needs to be enabled for MP3's to be applied as ringtones.
 
-.. |XVI32 editing seem 0032_0001| image:: |filename|/images/archive/W490-mp3-ringtones_small_001.png
-   :target: |filename|/images/archive/W490-mp3-ringtones_large_001.jpg
+.. |XVI32 editing seem 0032_0001| image:: {static}/images/archive/W490-mp3-ringtones_small_001.png
+   :target: {static}/images/archive/W490-mp3-ringtones_large_001.jpg

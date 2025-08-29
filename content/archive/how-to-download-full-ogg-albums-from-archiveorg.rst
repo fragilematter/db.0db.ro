@@ -48,5 +48,5 @@ wget that the server is archive.org.
 
 That's all, hope it helps someone!
 
-.. |image0| image:: |filename|/images/archive/page_source_ogg_links.png
-   :target: |filename|/images/archive/page_source_ogg_links.png
+.. |image0| image:: {static}/images/archive/page_source_ogg_links.png
+   :target: {static}/images/archive/page_source_ogg_links.png

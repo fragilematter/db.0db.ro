@@ -10,7 +10,7 @@ for all my active life.
 
 In my spare time I dabble in photography, electronics and radio DXing.
 
-`This is my résumé. <|filename|/downloads/cv.pdf>`__
+`This is my résumé. <{attach}/downloads/cv.pdf>`__
 
 |
 

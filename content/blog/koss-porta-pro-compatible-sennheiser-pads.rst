@@ -21,5 +21,5 @@ throw this up here.
 
 |Porta Pro - Sennheiser|
 
-.. |Porta Pro - Sennheiser| image:: |filename|/images/PortaPro_Sennheiser_small.jpg
-   :target: |filename|/images/PortaPro_Sennheiser_full.jpg
+.. |Porta Pro - Sennheiser| image:: {static}/images/PortaPro_Sennheiser_small.jpg
+   :target: {static}/images/PortaPro_Sennheiser_full.jpg

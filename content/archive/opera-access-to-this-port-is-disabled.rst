@@ -35,15 +35,15 @@ Voila:
 
 |image2|
 
-.. |image0| image:: |filename|/images/archive/op_port_1.png
+.. |image0| image:: {static}/images/archive/op_port_1.png
    :width: 400px
    :height: 185px
-   :target: |filename|/images/archive/op_port_1.png
-.. |image1| image:: |filename|/images/archive/op_port_2.png
+   :target: {static}/images/archive/op_port_1.png
+.. |image1| image:: {static}/images/archive/op_port_2.png
    :width: 400px
    :height: 215px
-   :target: |filename|/images/archive/op_port_2.png
-.. |image2| image:: |filename|/images/archive/op_port_3.png
+   :target: {static}/images/archive/op_port_2.png
+.. |image2| image:: {static}/images/archive/op_port_3.png
    :width: 400px
    :height: 179px
-   :target: |filename|/images/archive/op_port_3.png
+   :target: {static}/images/archive/op_port_3.png

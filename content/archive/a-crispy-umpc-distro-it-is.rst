@@ -14,9 +14,9 @@ Nothing to say, all great, stable & clean distros. And then came
 `cruncheee <http://crunchbanglinux.org/forums/topic/424/cruncheee-81001-release-candidate-1/>`__.
 Watch this:
 
-.. image:: |filename|/images/archive/crunchbang.png
+.. image:: {static}/images/archive/crunchbang.png
    :width: 400px
-   :target: |filename|/images/archive/crunchbang.png
+   :target: {static}/images/archive/crunchbang.png
    :alt: CrunchBang desktop screenshot
 
 The install iso is smaller than 500 megs, so it really lost some fat
