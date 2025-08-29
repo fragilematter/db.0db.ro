@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-import sys
-sys.path.append('.')
-
-AUTHOR = 'Doru Barbu'
+AUTHOR = 'D'
 SITENAME = 'db.0db.ro'
 SITEURL = 'https://db.0db.ro'
 
@@ -27,7 +21,7 @@ MENUITEMS = (
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
